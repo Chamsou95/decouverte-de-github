@@ -1,1 +1,2 @@
-test de contribution sur GtHb
+test de contribution sur GitHub
+GitHub est une solution parmis d'autre qui permet la gestion de projet, l'hebergement de dossiers appelés "repository", il aide les developpeurs à travailler en groupe et permet d'y voir plus clair.
